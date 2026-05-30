@@ -58,7 +58,7 @@ padding: 0 20px;
 }
 
 
-@media (max-width:560px) {
+@media (max-width:450px) {
     .project-card{
         display: block;
         margin-left: auto;
